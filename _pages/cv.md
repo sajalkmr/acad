@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 ## Contact Information
 📱 +91 79017 52417  
 📧 [sajalkmr@proton.me](mailto:sajalkmr@proton.me)  
-🔗 [GitHub](https://github.com/sajalkmr) | [LinkedIn](https://linkedin.com/in/sajalkmr) | [Twitter](https://twitter.com/sajalkmr) | [sajalkmr.tech](https://sajalkmr.tech)
+🔗 [GitHub](https://github.com/sajalkmr) | [LinkedIn](https://linkedin.com/in/sajalkmr) | [sajalkmr.tech](https://sajalkmr.tech)
 
 ## Education
 
