@@ -57,10 +57,6 @@ As a core member of the **Google Developer Student Club**, I organized technical
 Feel free to reach out for collaborations, discussions about anything, or just a friendly chat about tech!
 
 - 📧 Email: [sajalkmr@proton.me](mailto:sajalkmr@proton.me)
-- 💼 LinkedIn: [linkedin.com/in/sajalkmr](https://linkedin.com/in/sajalkmr)
-- 🐦 Twitter/X: [@sajalkmrx](https://x.com/sajalkmrx)
-- 💻 GitHub: [github.com/sajalkmr](https://github.com/sajalkmr)
-- 📱 Telegram: [t.me/sajalkmr](https://t.me/sajalkmr)
 - 👽 Reddit: [reddit.com/u/sajalkmr](https://www.reddit.com/u/sajalkmr)
 - 👾 Discord: [discordapp.com/users/785875026007294022](https://www.discordapp.com/users/785875026007294022)
 
