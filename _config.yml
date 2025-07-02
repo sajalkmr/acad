@@ -15,6 +15,7 @@ description              : &description "Information Science & Engineering Stude
 url                      : https://sajalkmr.tech # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sajalkmr/sajalkmr.github.io"
+remote_theme             : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -303,6 +304,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-include-cache
+  - jekyll-remote-theme
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -312,6 +315,8 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-include-cache
+  - jekyll-remote-theme
   - jemoji
 
 
