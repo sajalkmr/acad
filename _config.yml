@@ -288,6 +288,7 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  sourcemap: never
 
 
 # Outputting
@@ -306,6 +307,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-sass-converter
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -317,6 +319,7 @@ whitelist:
   - jekyll-redirect-from
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-sass-converter
   - jemoji
 
 

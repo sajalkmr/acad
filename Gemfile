@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
   gem 'jekyll-include-cache'
+  gem 'jekyll-sass-converter'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
 end
