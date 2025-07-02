@@ -1,7 +1,25 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "LLM-based Cyber Threat Intelligence System"
+excerpt: "AI-driven network traffic analysis system using LLMs and ChromaDB for automated threat detection<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Overview
+An advanced cybersecurity solution that leverages Large Language Models and vector databases to automate network traffic analysis, threat detection, and mitigation recommendations from PCAP logs.
+
+## Key Features
+- **AI-Powered Analysis**: Integrated Google Gemini and locally-run models (Llama3, Mistral) for context-aware threat assessments
+- **RAG Pipeline**: Implemented with LangChain for semantic search capabilities
+- **Interactive Web Interface**: Built with Streamlit for real-time analysis and visualization
+- **High Accuracy**: Achieved 75% classification accuracy on real-world malware datasets
+
+## Technologies Used
+- **Languages**: Python
+- **AI/ML**: LangChain, ChromaDB, Google Gemini, Llama3, Mistral
+- **Data Processing**: PyShark, Pandas, Sentence Transformers
+- **Frontend**: Streamlit
+
+## Impact
+This system significantly reduces the time required for cybersecurity analysts to identify and respond to threats by automating the analysis process and providing actionable insights through AI-driven recommendations.
+
+[View on GitHub](https://github.com/sajalkmr/LLM)
